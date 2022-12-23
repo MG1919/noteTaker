@@ -1,6 +1,18 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title":"WALK THE CAT",
+        "text":"Take that fat cat on a stroll"
+    },
+    {
+        "title":"GET GROCERIES",
+        "text":"IM HUNGRY"
+    },
+    {
+        "title":"MOVIE @ 6",
+        "text":"AVATAR"
+    },
+    {
+        "title":"DO OTHER STUFF",
+        "text":"DONT FORGET THAT OTHER STUFF"
     }
 ]
